@@ -3,10 +3,13 @@ body{
   background-repeat: no-repeat;
   background-size: cover;
   height: 1000px;
-  background-image: url(images/illusion.jpg);
+  background-image: url(../images/illusion.jpg);
 }
 
 #container{
 
 
+}
+h1{
+  1000px;
 }
